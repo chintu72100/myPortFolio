@@ -33,7 +33,7 @@ const Myprojects = () => {
             <small className='text-light'>ReactJs | Tailwind CSS | JS | GSAP | Locomotive Scroll</small>
             <div className="portfolio__item-cta">
               <a href="/" target="_blank" rel='noreferrer' className='btn'>Github</a>
-              <a href="https://app.netlify.com/sites/refocusclonebychintu/overview" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Website</a> 
+              <a href="https://refocusclonebychintu.netlify.app/" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Website</a> 
             </div>
             
         </article>
@@ -44,8 +44,7 @@ const Myprojects = () => {
             <h3>My Portfolio(This website)</h3>
             <small className='text-light'>ReactJs</small>
             <div className="portfolio__item-cta">
-              <a href="https://github.com/Thakshila-Bandara/my-portfolio" target="_blank" rel='noreferrer' className='btn'>Github</a>
-              <a href="https://thakshila-bandara.github.io/my-portfolio/" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Website</a>  
+              <a href="https://github.com/chintu72100/myPortFolio" target="_blank" rel='noreferrer' className='btn'>Github</a>  
             </div>
             
         </article>
